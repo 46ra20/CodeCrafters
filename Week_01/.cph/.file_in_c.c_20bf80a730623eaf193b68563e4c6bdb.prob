@@ -1,0 +1,1 @@
+{"name":"Local: file_in_c","url":"/home/mrb/Programming/Code Crafters/Week_01/file_in_c.c","tests":[{"id":1734524820009,"input":"hello","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mrb/Programming/Code Crafters/Week_01/file_in_c.c","group":"local","local":true}
